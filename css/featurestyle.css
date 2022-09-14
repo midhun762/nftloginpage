@@ -1,0 +1,21 @@
+
+.card-body{
+    padding: .5rem;
+    background-color: rgb(8, 11, 43);
+    font-weight: bold;
+    color: white;
+    opacity: .8;
+    margin: 5px;
+    border-radius: .5rem;
+    
+}
+.card-title{
+    padding: .5rem;
+    color: rgb(0, 255, 0);
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.card-text{
+    text-align: center;
+    font-weight:400;
+}
